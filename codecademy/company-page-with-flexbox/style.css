@@ -30,6 +30,9 @@ p {
   display: flex;
   justify-content: space-around;
   margin: 0 10%;
+  position:fixed;
+  
+  margin: 0 10%;
 }
 
 .navbar p {
